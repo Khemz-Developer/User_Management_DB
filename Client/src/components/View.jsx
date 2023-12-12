@@ -37,7 +37,7 @@ function View() {
           <span className="font-bold">Job Title:</span> {user.jobTitle}
         </div>
 
-        <Link to="/" className="btn btn-primary">
+        <Link to="/" className="px-4 py-2 text-sm  btn btn-primary">
           Back
         </Link>
       </div>
